@@ -16,10 +16,10 @@
     "author": "notadd",
     "license": "Apache-2.0",
     "dependencies": {
-        "@twilroad/backend": "^2.0.1",
-        "@twilroad/bootstrapper": "^2.0.6",
-        "@twilroad/console": "^2.0.16",
-        "@twilroad/foundation": "^2.0.7"
+        "@twilroad/backend": "git+https://gitee.com/notadd/backend.git",
+        "@twilroad/bootstrapper": "git+https://gitee.com/notadd/bootstrapper.git",
+        "@twilroad/console": "git+https://gitee.com/notadd/console.git",
+        "@twilroad/foundation": "git+https://gitee.com/notadd/foundation.git"
     },
     "devDependencies": {},
     "autoload": {
