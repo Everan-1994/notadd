@@ -20,7 +20,8 @@
         "@twilroad/backend": "git+https://gitee.com/notadd/backend.git",
         "@twilroad/bootstrapper": "git+https://gitee.com/notadd/bootstrapper.git",
         "@twilroad/console": "git+https://gitee.com/notadd/console.git",
-        "@twilroad/foundation": "git+https://gitee.com/notadd/foundation.git"
+        "@twilroad/foundation": "git+https://gitee.com/notadd/foundation.git",
+        "@twilroad/user": "git+https://gitee.com/notadd/user.git"
     },
     "devDependencies": {},
     "autoload": {
