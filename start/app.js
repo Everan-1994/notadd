@@ -21,6 +21,7 @@ const providers = [
     '@twilroad/backend/providers/BackendProvider',
     '@twilroad/foundation/providers/AppProvider',
     '@twilroad/foundation/providers/FoundationProvider',
+    '@twilroad/user/providers/UserProvider',
 ];
 /*
 |--------------------------------------------------------------------------
