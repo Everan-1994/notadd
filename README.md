@@ -50,8 +50,6 @@ CRM系统： 用户模块、CRM模块...
 
 更多可畅想的...
 
-## CDN 方案
-![cdn](https://www.notadd.com/src/cdn.svg)
 
 ## 文档
 
