@@ -5,7 +5,7 @@
     "description": "The fullstack application for Notadd",
     "main": "server.js",
     "scripts": {
-        "dev": "node ace serve --dev --debug",
+        "dev": "node ace serve --dev --debug --polling",
         "start": "node ace serve",
         "test": "node ace test"
     },
