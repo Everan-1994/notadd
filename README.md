@@ -3,6 +3,7 @@
 <a href="https://jq.qq.com/?_wv=1027&k=5qVzRh4" title="Notadd 官方技术交流群"><img src="https://img.shields.io/badge/QQ%20Group-321735506-6782d6.svg?style=flat-square"></a>
 <a href="https://travis-ci.org/notadd/notadd?branches=2.0-dev" title="Build Status"><img src="https://img.shields.io/travis/notadd/notadd/2.0-dev.svg?style=flat-square"></a>
 <a href="https://www.npmjs.com/package/@notadd/console" title="Downloads"><img src="https://img.shields.io/npm/dt/@notadd/console.svg?style=flat-square"></a>
+<a href="https://www.npmjs.com/package/@notadd/console" title="Downloads"><img src="https://img.shields.io/npm/dm/@notadd/console.svg?style=flat-square"></a>
 </p>
 
 ## [English](#)
