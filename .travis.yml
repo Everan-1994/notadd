@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "9"
+  - "8"
+  
+before_install:
+  - npm i -g @adonisjs/cli
+
+install:
+  - npm install
