@@ -17,11 +17,11 @@
     "author": "notadd",
     "license": "Apache-2.0",
     "dependencies": {
-        "@twilroad/backend": "git+https://gitee.com/notadd/backend.git",
-        "@twilroad/bootstrapper": "git+https://gitee.com/notadd/bootstrapper.git",
-        "@twilroad/console": "git+https://gitee.com/notadd/console.git",
-        "@twilroad/foundation": "git+https://gitee.com/notadd/foundation.git",
-        "@twilroad/user": "git+https://gitee.com/notadd/user.git"
+        "@notadd/backend": "git+https://gitee.com/notadd/backend.git",
+        "@notadd/bootstrapper": "git+https://gitee.com/notadd/bootstrapper.git",
+        "@notadd/console-v2": "git+https://gitee.com/notadd/console.git",
+        "@notadd/foundation": "git+https://gitee.com/notadd/foundation.git",
+        "@notadd/user": "git+https://gitee.com/notadd/user.git"
     },
     "devDependencies": {},
     "autoload": {

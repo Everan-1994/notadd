@@ -17,7 +17,7 @@
 |     Make sure to pass relative path from the project root.
 */
 
-const { Bootstrapper } = require('@twilroad/bootstrapper');
+const { Bootstrapper } = require('@notadd/bootstrapper');
 const App = new Bootstrapper(
   require('@adonisjs/fold')
 );

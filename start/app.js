@@ -18,10 +18,10 @@ const providers = [
     '@adonisjs/shield/providers/ShieldProvider',
     '@adonisjs/session/providers/SessionProvider',
     '@adonisjs/auth/providers/AuthProvider',
-    '@twilroad/backend/providers/BackendProvider',
-    '@twilroad/foundation/providers/AppProvider',
-    '@twilroad/foundation/providers/FoundationProvider',
-    '@twilroad/user/providers/UserProvider',
+    '@notadd/backend/providers/BackendProvider',
+    '@notadd/foundation/providers/AppProvider',
+    '@notadd/foundation/providers/FoundationProvider',
+    '@notadd/user/providers/UserProvider',
 ];
 /*
 |--------------------------------------------------------------------------
@@ -34,7 +34,7 @@ const providers = [
 */
 const aceProviders = [
     '@adonisjs/lucid/providers/MigrationsProvider',
-    '@twilroad/console/providers/ConsoleProvider',
+    '@notadd/console-v2/providers/ConsoleProvider',
 ];
 /*
 |--------------------------------------------------------------------------
