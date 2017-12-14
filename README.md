@@ -22,7 +22,6 @@
 ## 相关技术
 
 - NodeJS
-- AdonisJS
 - React
 - SPA 单页应用
 - Redis
